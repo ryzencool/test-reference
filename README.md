@@ -10,6 +10,6 @@
 
 * foundation of python3
 
-* how to complete API test and Perfomance test with python
+* how to complete API test and perfomance test with python
 
 
